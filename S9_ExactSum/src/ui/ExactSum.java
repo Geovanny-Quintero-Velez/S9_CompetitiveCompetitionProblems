@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class Main {
+public class ExactSum {
 	public static Scanner lector = new Scanner(System.in);
 
 	public static void main(String[] args) {
